@@ -1,0 +1,9 @@
+1;Pop;Ionut
+2;Pop;Maricica
+3;Bolos;Gigi
+6;Pop;Mircea
+7;Silaghi;Gabriel
+8;Rata;Silviu
+9;Marcu;Iosif
+10;Popdan;Radu
+13;Pop;Maria
