@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="520.0" prefWidth="667.0" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ubb.scs.map.sem8map.controllers.NoteController">
+    <children>
+      <SplitPane dividerPositions="0.03038990825688073, 0.03956422018348623" prefHeight="522.0" prefWidth="682.0">
+        <items>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0" />
+                      <TableView fx:id="tableView" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="519.0" prefWidth="342.0">
+                          <columns>
+                              <TableColumn fx:id="tableColumnStudent" editable="false" maxWidth="2000.0" minWidth="0.0" prefWidth="100.0" text="Student" />
+                              <TableColumn fx:id="tableColumnTema" maxWidth="4000.0" prefWidth="139.99996948242188" text="Tema" />
+                              <TableColumn fx:id="tableColumnNota" maxWidth="4000.0" prefWidth="109.60001220703123" text="Nota" />
+                          </columns>
+               <columnResizePolicy>
+                  <TableView fx:constant="CONSTRAINED_RESIZE_POLICY" />
+               </columnResizePolicy>
+                      </TableView>
+          <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="522.0" prefWidth="171.0">
+               <children>
+                  <Label layoutX="33.0" layoutY="39.0" text="Nume Student" />
+                  <Label layoutX="33.0" layoutY="94.0" text="Nota mai mare decat" />
+                  <Label layoutX="33.0" layoutY="148.0" text="Tema" />
+                  <Label layoutX="33.0" layoutY="201.0" text="Tema" />
+                  <TextField onKeyTyped="#handleKeyFilter" fx:id="textFieldNume" layoutX="163.0" layoutY="35.0" />
+                  <TextField onKeyTyped="#handleKeyFilter" fx:id="textFieldNota" layoutX="163.0" layoutY="90.0" prefHeight="26.0" prefWidth="150.0" />
+                  <TextField onKeyTyped="#handleKeyFilter" fx:id="textFieldTema" layoutX="93.0" layoutY="144.0" prefHeight="26.0" prefWidth="220.0" />
+                  <ComboBox onAction="#handleFilterSelection" fx:id="comboBoxTema" layoutX="88.0" layoutY="197.0" prefHeight="26.0" prefWidth="220.0" />
+               </children></AnchorPane>
+        </items>
+      </SplitPane>
+    </children>
+
+</AnchorPane>
