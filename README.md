@@ -12,7 +12,7 @@ programming concepts and techniques aimed at building advanced proficiency in ob
 
 ## Last Added
 - Lab7-MAP
-- Sem8-MAP
+- Sem9-MAP
 
 ## Missing
 Sem5-MAP
