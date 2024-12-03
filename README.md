@@ -11,8 +11,8 @@ programming concepts and techniques aimed at building advanced proficiency in ob
 - **Design Patterns**: Exploration of common design patterns and their usage in real-world applications.
 
 ## Last Added
-Lab7-MAP
-Sem8-MAP
+- Lab7-MAP
+- Sem8-MAP
 
 ## Missing
 Sem5-MAP
