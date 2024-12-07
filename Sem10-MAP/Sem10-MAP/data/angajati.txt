@@ -1,0 +1,10 @@
+﻿1,John Doe,Junior,15.50
+2,Jane Smith,Mid,20.75
+3,Robert Brown,Senior,30.00
+4,Emily Davis,Junior,14.00
+5,Michael Wilson,Mid,22.00
+6,Sarah Johnson,Senior,35.50
+7,David Lee,Junior,16.25
+8,Laura Martinez,Mid,25.00
+9,Daniel Anderson,Senior,40.00
+10,Sophia Thomas,Junior,13.50

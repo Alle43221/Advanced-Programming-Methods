@@ -1,0 +1,10 @@
+﻿1,Usoara,2
+2,Medie,5
+3,Grea,8
+4,Usoara,1
+5,Medie,4
+6,Grea,10
+7,Usoara,3
+8,Medie,6
+9,Grea,12
+10,Usoara,2
