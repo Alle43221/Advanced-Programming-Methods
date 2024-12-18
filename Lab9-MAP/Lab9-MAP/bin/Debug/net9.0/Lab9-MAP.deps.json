@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Lab9-MAP/1.0.0": {
+        "runtime": {
+          "Lab9-MAP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab9-MAP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
