@@ -1,0 +1,17 @@
+C:\Users\Ale\RiderProjects\Sem10-MAP\Sem11-MAP\bin\Debug\net9.0\Sem11-MAP.exe
+C:\Users\Ale\RiderProjects\Sem10-MAP\Sem11-MAP\bin\Debug\net9.0\data\angajati.txt
+C:\Users\Ale\RiderProjects\Sem10-MAP\Sem11-MAP\bin\Debug\net9.0\data\pontaje.txt
+C:\Users\Ale\RiderProjects\Sem10-MAP\Sem11-MAP\bin\Debug\net9.0\data\sarcini.txt
+C:\Users\Ale\RiderProjects\Sem10-MAP\Sem11-MAP\bin\Debug\net9.0\Sem11-MAP.deps.json
+C:\Users\Ale\RiderProjects\Sem10-MAP\Sem11-MAP\bin\Debug\net9.0\Sem11-MAP.runtimeconfig.json
+C:\Users\Ale\RiderProjects\Sem10-MAP\Sem11-MAP\bin\Debug\net9.0\Sem11-MAP.dll
+C:\Users\Ale\RiderProjects\Sem10-MAP\Sem11-MAP\bin\Debug\net9.0\Sem11-MAP.pdb
+C:\Users\Ale\RiderProjects\Sem10-MAP\Sem11-MAP\obj\Debug\net9.0\Sem11-MAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ale\RiderProjects\Sem10-MAP\Sem11-MAP\obj\Debug\net9.0\Sem11-MAP.AssemblyInfoInputs.cache
+C:\Users\Ale\RiderProjects\Sem10-MAP\Sem11-MAP\obj\Debug\net9.0\Sem11-MAP.AssemblyInfo.cs
+C:\Users\Ale\RiderProjects\Sem10-MAP\Sem11-MAP\obj\Debug\net9.0\Sem11-MAP.csproj.CoreCompileInputs.cache
+C:\Users\Ale\RiderProjects\Sem10-MAP\Sem11-MAP\obj\Debug\net9.0\Sem11-MAP.dll
+C:\Users\Ale\RiderProjects\Sem10-MAP\Sem11-MAP\obj\Debug\net9.0\refint\Sem11-MAP.dll
+C:\Users\Ale\RiderProjects\Sem10-MAP\Sem11-MAP\obj\Debug\net9.0\Sem11-MAP.pdb
+C:\Users\Ale\RiderProjects\Sem10-MAP\Sem11-MAP\obj\Debug\net9.0\Sem11-MAP.genruntimeconfig.cache
+C:\Users\Ale\RiderProjects\Sem10-MAP\Sem11-MAP\obj\Debug\net9.0\ref\Sem11-MAP.dll
