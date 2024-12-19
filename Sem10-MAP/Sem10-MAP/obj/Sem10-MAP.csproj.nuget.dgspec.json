@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ale\\RiderProjects\\Sem10-MAP\\Sem10-MAP\\Sem10-MAP.csproj": {}
+    "C:\\Users\\Ale\\Desktop\\Sem10-MAP\\Sem10-MAP\\Sem10-MAP\\Sem10-MAP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ale\\RiderProjects\\Sem10-MAP\\Sem10-MAP\\Sem10-MAP.csproj": {
+    "C:\\Users\\Ale\\Desktop\\Sem10-MAP\\Sem10-MAP\\Sem10-MAP\\Sem10-MAP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ale\\RiderProjects\\Sem10-MAP\\Sem10-MAP\\Sem10-MAP.csproj",
+        "projectUniqueName": "C:\\Users\\Ale\\Desktop\\Sem10-MAP\\Sem10-MAP\\Sem10-MAP\\Sem10-MAP.csproj",
         "projectName": "Sem10-MAP",
-        "projectPath": "C:\\Users\\Ale\\RiderProjects\\Sem10-MAP\\Sem10-MAP\\Sem10-MAP.csproj",
+        "projectPath": "C:\\Users\\Ale\\Desktop\\Sem10-MAP\\Sem10-MAP\\Sem10-MAP\\Sem10-MAP.csproj",
         "packagesPath": "C:\\Users\\Ale\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ale\\RiderProjects\\Sem10-MAP\\Sem10-MAP\\obj\\",
+        "outputPath": "C:\\Users\\Ale\\Desktop\\Sem10-MAP\\Sem10-MAP\\Sem10-MAP\\obj\\",
         "projectStyle": "PackageReference",
         "UsingMicrosoftNETSdk": false,
         "fallbackFolders": [
