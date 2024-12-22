@@ -13,6 +13,3 @@ programming concepts and techniques aimed at building advanced proficiency in ob
 ## Last Added
 - Lab10-MAP
 - Sem11-MAP
-
-## Missing
-- Lab8-MAP
