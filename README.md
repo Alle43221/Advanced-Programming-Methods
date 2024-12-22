@@ -15,5 +15,4 @@ programming concepts and techniques aimed at building advanced proficiency in ob
 - Sem11-MAP
 
 ## Missing
-- Sem5-MAP
 - Lab8-MAP
