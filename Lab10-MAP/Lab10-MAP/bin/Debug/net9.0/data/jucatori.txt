@@ -1,0 +1,75 @@
+1,Maria Tudor,Scoala Gimnaziala “Horea”,1
+2,Ioana Georgescu,Scoala Gimnaziala “Horea”,1
+3,Ioana Ionescu,Scoala Gimnaziala “Horea”,1
+4,Cristian Popescu,Scoala Gimnaziala “Horea”,1
+5,Ioana Nica,Scoala Gimnaziala “Horea”,1
+6,Mihai Nica,Scoala Gimnaziala “Horea”,1
+7,Ion Marinescu,Scoala Gimnaziala “Horea”,1
+8,Cristian Popescu,Scoala Gimnaziala “Horea”,1
+9,Mihai Nica,Scoala Gimnaziala “Horea”,1
+10,Maria Georgescu,Scoala Gimnaziala “Horea”,1
+11,Adriana Popescu,Scoala Gimnaziala “Horea”,1
+12,Ioana Marinescu,Scoala Gimnaziala “Horea”,1
+13,Maria Dumitrescu,Scoala Gimnaziala “Horea”,1
+14,Maria Popescu,Scoala Gimnaziala “Horea”,1
+15,Maria Ionescu,Scoala Gimnaziala “Horea”,1
+16,Ana Petrescu,Scoala Gimnaziala "Octavian Goga",2
+17,Mihai Petrescu,Scoala Gimnaziala "Octavian Goga",2
+18,Mihai Petrescu,Scoala Gimnaziala "Octavian Goga",2
+19,Ana Nica,Scoala Gimnaziala "Octavian Goga",2
+20,George Marinescu,Scoala Gimnaziala "Octavian Goga",2
+21,Adriana Tudor,Scoala Gimnaziala "Octavian Goga",2
+22,Ana Voinea,Scoala Gimnaziala "Octavian Goga",2
+23,Ana Ionescu,Scoala Gimnaziala "Octavian Goga",2
+24,George Popescu,Scoala Gimnaziala "Octavian Goga",2
+25,Ion Voinea,Scoala Gimnaziala "Octavian Goga",2
+26,Elena Popescu,Scoala Gimnaziala "Octavian Goga",2
+27,Ion Voinea,Scoala Gimnaziala "Octavian Goga",2
+28,George Stan,Scoala Gimnaziala "Octavian Goga",2
+29,Maria Tudor,Scoala Gimnaziala "Octavian Goga",2
+30,Mihai Petrescu,Scoala Gimnaziala "Octavian Goga",2
+31,Mihai Petrescu,Liceul Teoretic "Lucian Blaga",3
+32,Cristian Stan,Liceul Teoretic "Lucian Blaga",3
+33,Cristian Voinea,Liceul Teoretic "Lucian Blaga",3
+34,Elena Dumitrescu,Liceul Teoretic "Lucian Blaga",3
+35,Andrei Nica,Liceul Teoretic "Lucian Blaga",3
+36,George Popescu,Liceul Teoretic "Lucian Blaga",3
+37,Adriana Nica,Liceul Teoretic "Lucian Blaga",3
+38,Adriana Nica,Liceul Teoretic "Lucian Blaga",3
+39,Ana Nica,Liceul Teoretic "Lucian Blaga",3
+40,Ioana Ionescu,Liceul Teoretic "Lucian Blaga",3
+41,Ioana Stan,Liceul Teoretic "Lucian Blaga",3
+42,Ion Voinea,Liceul Teoretic "Lucian Blaga",3
+43,Ion Marinescu,Liceul Teoretic "Lucian Blaga",3
+44,Ana Georgescu,Liceul Teoretic "Lucian Blaga",3
+45,Ioana Marinescu,Liceul Teoretic "Lucian Blaga",3
+46,Maria Georgescu,Scoala Gimnaziala "Ioan Bob",4
+47,Mihai Dumitrescu,Scoala Gimnaziala "Ioan Bob",4
+48,Mihai Stan,Scoala Gimnaziala "Ioan Bob",4
+49,Ana Nica,Scoala Gimnaziala "Ioan Bob",4
+50,Ioana Nica,Scoala Gimnaziala "Ioan Bob",4
+51,Mihai Dumitrescu,Scoala Gimnaziala "Ioan Bob",4
+52,Mihai Dumitrescu,Scoala Gimnaziala "Ioan Bob",4
+53,Adriana Marinescu,Scoala Gimnaziala "Ioan Bob",4
+54,Andrei Ionescu,Scoala Gimnaziala "Ioan Bob",4
+55,Andrei Popescu,Scoala Gimnaziala "Ioan Bob",4
+56,Andrei Stan,Scoala Gimnaziala "Ioan Bob",4
+57,Elena Tudor,Scoala Gimnaziala "Ioan Bob",4
+58,Mihai Dumitrescu,Scoala Gimnaziala "Ioan Bob",4
+59,Adriana Georgescu,Scoala Gimnaziala "Ioan Bob",4
+60,Ioana Tudor,Scoala Gimnaziala "Ioan Bob",4
+61,Mihai Georgescu,Scoala Gimnaziala "Ion Creanga",5
+62,Maria Tudor,Scoala Gimnaziala "Ion Creanga",5
+63,Mihai Georgescu,Scoala Gimnaziala "Ion Creanga",5
+64,Ion Popescu,Scoala Gimnaziala "Ion Creanga",5
+65,Ioana Georgescu,Scoala Gimnaziala "Ion Creanga",5
+66,Cristian Petrescu,Scoala Gimnaziala "Ion Creanga",5
+67,Elena Marinescu,Scoala Gimnaziala "Ion Creanga",5
+68,George Petrescu,Scoala Gimnaziala "Ion Creanga",5
+69,George Voinea,Scoala Gimnaziala "Ion Creanga",5
+70,Ana Nica,Scoala Gimnaziala "Ion Creanga",5
+71,Ana Voinea,Scoala Gimnaziala "Ion Creanga",5
+72,Ana Dumitrescu,Scoala Gimnaziala "Ion Creanga",5
+73,Elena Ionescu,Scoala Gimnaziala "Ion Creanga",5
+74,George Georgescu,Scoala Gimnaziala "Ion Creanga",5
+75,Ana Georgescu,Scoala Gimnaziala "Ion Creanga",5
