@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ubb.scs.map.template.controller.TableController">
+   <children>
+      <Label fx:id="nameLabel" layoutX="34.0" layoutY="27.0" prefHeight="18.0" prefWidth="132.0" text="Nume" />
+      <Label fx:id="locationLabel" layoutX="34.0" layoutY="55.0" prefHeight="18.0" prefWidth="132.0" text="Locatie" />
+      <Label fx:id="capacityLabel" layoutX="34.0" layoutY="83.0" prefHeight="18.0" prefWidth="132.0" text="Capacitate" />
+      <Label fx:id="percentLabel" layoutX="34.0" layoutY="109.0" prefHeight="18.0" prefWidth="132.0" text="Procent de ocupare" />
+      <ListView fx:id="listView" layoutX="200.0" layoutY="27.0" prefHeight="350.0" prefWidth="376.0" />
+      <ComboBox onAction="#handleSelectionChange" fx:id="comboBox" layoutX="25.0" layoutY="146.0" prefWidth="150.0" promptText="Animal Type" />
+   </children>
+</AnchorPane>
