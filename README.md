@@ -9,7 +9,3 @@ programming concepts and techniques aimed at building advanced proficiency in ob
 - **Data Structures**: Implementations of common data structures in Java and their applications.
 - **Algorithms**: Fundamental algorithms for sorting, searching, and data manipulation.
 - **Design Patterns**: Exploration of common design patterns and their usage in real-world applications.
-
-## Last Added
-- Lab10-MAP
-- Sem11-MAP
