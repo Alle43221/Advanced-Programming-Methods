@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ubb.scs.map.comenzirestaurant.controller.StaffController">
+   <children>
+      <Label layoutX="40.0" layoutY="28.0" text="Placed Orders" />
+      <TableView fx:id="tabel" layoutX="40.0" layoutY="56.0" prefHeight="200.0" prefWidth="338.0">
+        <columns>
+          <TableColumn fx:id="data" prefWidth="124.0" text="Data" />
+          <TableColumn fx:id="masa" prefWidth="89.0" text="Masa" />
+            <TableColumn fx:id="produse" prefWidth="116.0" text="Produse" />
+        </columns>
+      </TableView>
+   </children>
+</AnchorPane>
