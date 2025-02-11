@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ubb.scs.map.trenuri.controller.ClientController">
+   <children>
+      <ComboBox fx:id="departureCombo" layoutX="29.0" layoutY="29.0" prefWidth="150.0" />
+      <ComboBox fx:id="destinationCombo" layoutX="198.0" layoutY="29.0" prefWidth="150.0" />
+      <Button layoutX="533.0" layoutY="29.0" mnemonicParsing="false" onAction="#handleSearch" text="CAUTA!" />
+      <CheckBox fx:id="checkBox"  layoutX="368.0" layoutY="33.0" mnemonicParsing="false" text="DOAR RUTE DIRECTE?" />
+      <ListView fx:id="listView" layoutX="-1.0" layoutY="79.0" prefHeight="275.0" prefWidth="606.0" />
+      <Label fx:id="textCasuta" layoutX="368.0" layoutY="367.0" prefHeight="18.0" prefWidth="221.0" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="150.0" prefWidth="214.0" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ubb.scs.map.trenuri.controller.LoginController">
+   <children>
+      <Button fx:id="loginButton" layoutX="27.0" layoutY="51.0" mnemonicParsing="false" onAction="#handleLogin" prefHeight="48.0" prefWidth="160.0" text="DESCHIDE PAGINA NOUA " />
+   </children>
+</AnchorPane>
