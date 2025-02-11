@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ubb.scs.map.faptebune.controller.SignUpController">
+    <GridPane hgap="5.0" layoutX="48.0" layoutY="18.0" prefHeight="368.0" prefWidth="404.0" vgap="5.0" AnchorPane.bottomAnchor="14.0" AnchorPane.leftAnchor="48.0" AnchorPane.rightAnchor="48.0" AnchorPane.topAnchor="18.0">
+        <columnConstraints>
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="208.5" minWidth="0.0" prefWidth="85.19999618530274" />
+            <ColumnConstraints hgrow="SOMETIMES" maxWidth="323.6" minWidth="10.0" prefWidth="137.2" />
+         <ColumnConstraints hgrow="SOMETIMES" maxWidth="323.6" minWidth="10.0" prefWidth="29.0" />
+         <ColumnConstraints hgrow="SOMETIMES" maxWidth="323.6" minWidth="10.0" prefWidth="87.60000000000002" />
+         <ColumnConstraints hgrow="SOMETIMES" maxWidth="323.6" minWidth="10.0" prefWidth="112.0" />
+        </columnConstraints>
+        <rowConstraints>
+            <RowConstraints maxHeight="78.4" minHeight="10.0" prefHeight="52.0" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="112.40000000000002" minHeight="10.0" prefHeight="54.39999999999999" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="132.4" minHeight="10.0" prefHeight="52.599999999999994" vgrow="SOMETIMES" />
+         <RowConstraints maxHeight="138.40000000000003" minHeight="10.0" prefHeight="49.20000000000002" vgrow="SOMETIMES" />
+         <RowConstraints maxHeight="138.40000000000003" minHeight="10.0" prefHeight="54.00000000000003" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="138.40000000000003" minHeight="0.0" prefHeight="65.60000000000002" vgrow="SOMETIMES" />
+            <RowConstraints maxHeight="70.4" minHeight="0.0" prefHeight="0.0" />
+            <RowConstraints maxHeight="0.0" minHeight="0.0" prefHeight="0.0" />
+            <RowConstraints maxHeight="0.0" minHeight="0.0" prefHeight="0.0" />
+            <RowConstraints maxHeight="0.0" minHeight="0.0" prefHeight="0.0" />
+        </rowConstraints>
+        <opaqueInsets>
+            <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+        </opaqueInsets>
+        <Label prefHeight="47.0" prefWidth="96.0" text="Username" />
+        <Label prefHeight="47.0" prefWidth="187.0" text="Prenume" GridPane.rowIndex="1" />
+        <Label prefHeight="47.0" prefWidth="187.0" text="Nume" GridPane.rowIndex="2" />
+
+
+        <TextField fx:id="textFieldUsername" prefHeight="52.0" prefWidth="137.0" GridPane.columnIndex="1" />
+        <TextField fx:id="textFieldFirstName" prefHeight="48.0" prefWidth="331.0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+        <TextField fx:id="textFieldLastName" prefHeight="48.0" prefWidth="297.0" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+        <ButtonBar prefHeight="54.0" prefWidth="269.0" GridPane.columnIndex="3" GridPane.rowIndex="5">
+            <padding>
+                <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+            </padding>
+            <buttons>
+                <Button mnemonicParsing="false" onAction="#saveUser" text="SignUp" translateX="-15.0">
+                    <padding>
+                        <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+                    </padding>
+                </Button>
+                <Button mnemonicParsing="false" onAction="#handleCancel" text="Cancel" />
+            </buttons>
+        </ButtonBar>
+      <Label layoutX="10.0" layoutY="157.0" prefHeight="47.0" prefWidth="187.0" text="Password" GridPane.rowIndex="3" />
+      <Label layoutX="10.0" layoutY="92.0" prefHeight="47.0" prefWidth="187.0" text="Confirm Pass" GridPane.rowIndex="4" />
+      <PasswordField fx:id="textFieldPassword" prefHeight="43.0" prefWidth="269.0" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+      <PasswordField fx:id="textFieldConfirmPassword" prefHeight="46.0" prefWidth="269.0" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+      <TextField fx:id="textFieldTelefon" layoutX="98.0" layoutY="10.0" prefHeight="52.0" prefWidth="137.0" GridPane.columnIndex="4" />
+      <TextField fx:id="textFieldStrada" layoutX="304.0" layoutY="10.0" prefHeight="52.0" prefWidth="137.0" GridPane.columnIndex="4" GridPane.rowIndex="1" />
+      <TextField fx:id="textFieldNrStrada" layoutX="304.0" layoutY="68.0" prefHeight="52.0" prefWidth="137.0" GridPane.columnIndex="4" GridPane.rowIndex="2" />
+      <Label layoutX="10.0" layoutY="129.0" prefHeight="47.0" prefWidth="187.0" text="Oras" GridPane.columnIndex="3" GridPane.rowIndex="3" />
+      <ChoiceBox fx:id="boxOras" prefWidth="150.0" GridPane.columnIndex="4" GridPane.rowIndex="3" />
+      <Label layoutX="10.0" layoutY="129.0" prefHeight="47.0" prefWidth="187.0" text="NrStrada" GridPane.columnIndex="3" GridPane.rowIndex="2" />
+      <Label layoutX="236.0" layoutY="129.0" prefHeight="47.0" prefWidth="187.0" text="Strada" GridPane.columnIndex="3" GridPane.rowIndex="1" />
+      <Label layoutX="236.0" layoutY="70.0" prefHeight="47.0" prefWidth="187.0" text="Telefon" GridPane.columnIndex="3" />
+    </GridPane>
+</AnchorPane>

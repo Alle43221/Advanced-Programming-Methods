@@ -1,0 +1,2 @@
+1,Ale,Moroz,Alle,pass,SatuMare,Prahova,37,0774
+2,aa,aa,Adi,aa,SatuMare,aa,aa,aa

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="300.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/17.0.12" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ubb.scs.map.faptebune.controller.AppStartController">
+   <children>
+      <Button fx:id="buttonLogIn" layoutX="148.0" layoutY="205.0" mnemonicParsing="false" onAction="#handleLogIn" text="LogIn">
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor></Button>
+      <Button fx:id="buttonSignUp" layoutX="301.0" layoutY="205.0" mnemonicParsing="false" onAction="#handleSignUp" text="SignUp">
+         <cursor>
+            <Cursor fx:constant="HAND" />
+         </cursor></Button>
+      <Label layoutX="171.0" layoutY="102.0" text="WELCOME TO &quot;FAPTE BUNE!&quot;" />
+   </children>
+</AnchorPane>
